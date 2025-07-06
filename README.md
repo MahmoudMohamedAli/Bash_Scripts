@@ -5,8 +5,8 @@ Collections of simple Bash Scripts.
 
 ---
 
-## Failed Login Attempt Count
-[Failled_Login_Attemt_Cnt.sh](Simple_Scripts/Failied_Login_Attempt_Cnt.sh).
+## Failied Login Attempt Count
+[Failied_Login_Attempt_Cnt.sh](Simple_Scripts/Failied_Login_Attempt_Cnt.sh).
 #### Description
 show the number of failed login attempts on the system.
 
