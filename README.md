@@ -8,7 +8,7 @@ Collections of simple Bash Scripts.
 ## Failied Login Attempt Count
 [Failied_Login_Attempt_Cnt.sh](Simple_Scripts/Failied_Login_Attempt_Cnt.sh).
 #### Description
-show the number of failed login attempts on the system.
+show the number of failied login attempts on the system.
 
 ## passwordGenerator
 [PasswordGenerator](Simple_Scripts/passwordGenerator.sh).
