@@ -19,3 +19,8 @@ Generate three Random password and save it to encrypted file if user press 'y'.
 [Password_policy_checker](Simple_Scripts/password_policy_checker.sh)
 #### Description
 check the password policy inside Ubuntu.
+
+## pShow Current Running Processes
+[Show Curr Processes](Simple_Scripts/showCurrentProcess/.sh)
+#### Description
+Show Running Processes for Current USer
