@@ -6,7 +6,7 @@ Collections of simple Bash Scripts.
 ---
 
 ## Failed Login Attempt Count
-[Failled_Login_Attemt_Cnt.sh](Simple_Scripts/Failled_Login_Attemt_Cnt.sh).
+[Failled_Login_Attemt_Cnt.sh](Simple_Scripts/Failied_Login_Attempt_Cnt.sh).
 #### Description
 show the number of failed login attempts on the system.
 
@@ -16,6 +16,6 @@ show the number of failed login attempts on the system.
 Generate three Random password and save it to encrypted file if user press 'y'.
 
 ## password_policy_checker
-[Password_policy_checker](Simple_Scripts/password_policy_checker)
+[Password_policy_checker](Simple_Scripts/password_policy_checker.sh)
 #### Description
 check the password policy inside Ubuntu.
