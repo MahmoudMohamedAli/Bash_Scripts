@@ -20,7 +20,7 @@ Generate three Random password and save it to encrypted file if user press 'y'.
 #### Description
 check the password policy inside Ubuntu.
 
-## pShow Current Running Processes
-[Show Curr Processes](Simple_Scripts/showCurrentProcess/.sh)
+## Show Current Running Processes
+[Show Curr Processes](Simple_Scripts/ShowCurrentProcess.sh)
 #### Description
 Show Running Processes for Current USer
