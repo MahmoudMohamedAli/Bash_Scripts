@@ -24,3 +24,8 @@ check the password policy inside Ubuntu.
 [Show Curr Processes](Simple_Scripts/ShowCurrentProcess.sh)
 #### Description
 Show Running Processes for Current USer
+
+## Addition
+[Add Positional Arguments](Simple_Scripts/addition.sh)
+#### Description
+Add all positional arguments that have been given by user.
