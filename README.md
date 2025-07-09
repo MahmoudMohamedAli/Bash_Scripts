@@ -29,3 +29,13 @@ Show Running Processes for Current USer
 [Add Positional Arguments](Simple_Scripts/addition.sh)
 #### Description
 Add all positional arguments that have been given by user.
+
+## Simple Todo list
+[Simple Todo list](Simple_todo_list/Simple_Todo_List.sh)
+#### Description
+to do list project coming soon more description.
+
+## Simple Processes Monitor
+[Simple Processes Monitor](ProcessMonitor/processMonitor.sh)
+#### Description
+Monitor all process project coming soon more description.
